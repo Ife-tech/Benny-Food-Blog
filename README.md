@@ -1,4 +1,4 @@
-# grid
+# Benny foodBlog
 
                                                 This is a Food blog
 
